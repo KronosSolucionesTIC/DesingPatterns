@@ -1,0 +1,15 @@
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\bin\Debug\net6.0\IntroductionToDesingPatterns.exe
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\bin\Debug\net6.0\IntroductionToDesingPatterns.deps.json
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\bin\Debug\net6.0\IntroductionToDesingPatterns.runtimeconfig.json
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\bin\Debug\net6.0\IntroductionToDesingPatterns.dll
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\bin\Debug\net6.0\IntroductionToDesingPatterns.pdb
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.csproj.AssemblyReference.cache
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.AssemblyInfoInputs.cache
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.AssemblyInfo.cs
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.csproj.CoreCompileInputs.cache
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.dll
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\refint\IntroductionToDesingPatterns.dll
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.pdb
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\IntroductionToDesingPatterns.genruntimeconfig.cache
+C:\Users\diego.marin\DesignPatterns\IntroductionToDesingPatterns\obj\Debug\net6.0\ref\IntroductionToDesingPatterns.dll
